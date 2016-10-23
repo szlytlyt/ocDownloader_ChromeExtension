@@ -1,0 +1,53 @@
+{
+  "Name": {
+    "message": "ocDownloader"
+  },
+  "Description": {
+    "message": "这个扩展可以让你直接在右键菜单进行下载"
+  },
+  "ownCloudURL": {
+    "message": "ownCloud地址"
+  },
+  "Username": {
+    "message": "用户名"
+  },
+  "Password": {
+    "message": "密码"
+  },
+  "Save": {
+    "message": "保存"
+  },
+  "InvalidURL": {
+    "message": "URL地址错误"
+  },
+  "Datasaved": {
+    "message": "数据已保存"
+  },
+  "Downloadlaunchedonyourserver": {
+    "message": "已经开始在您的服务器下载"
+  },
+  "Unabletoreachyourserver": {
+    "message": "无法连接到服务器"
+  },
+  "Unabletolaunchthedownload": {
+    "message": "无法开始下载"
+  },
+  "UnabletoretrievetrueYouTubevideoURL": {
+    "message": "无法获取真正的YouTube视频网址"
+  },
+  "ReturnedGIDisnullIsAria2crunningasadaemon": {
+    "message": "返回GID为空！请确定Aria2c守护程序正在运行？"
+  },
+  "NoresponsefromocDownloaderonyourserverPleasecheckthesettings": {
+    "message": "访问您服务器上ocDownloader没有响应。请检查您的设置"
+  },
+  "DownloadWithocDownloader": {
+    "message": "下载到您的ownCloud"
+  },
+  "VersionOK": {
+    "message": "支持您服务器安装ocDownloader版本"
+  },
+  "VersionNOK": {
+    "message": "您服务器安装的ocDownloader版本可能不适合该插件版本。请更新您的服务器上的ocDownloader"
+  }
+}
